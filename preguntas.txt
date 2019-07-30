@@ -1,0 +1,40 @@
+1;1;Si algo sale mal, se puede tratar de evadir la responsabilidad del trabajo?;No
+2;1;Que clase de peligro se debe mostrar relacionado al software? Real o potencial?;Ambos
+3;1;En que otra preocupacion grave se debe cooperar ademas del mantenimiento, soporte y documentación del software?;La instalacion
+4;1;Si se disminuye el acceso a los beneficios del software, que desventajas se deberian tener en cuenta para que esto no pase?;Cualquier factor que pueda influir
+5;1;Se debe tener en completo silencio el aprendizaje adquirido de esta disciplina?;Se debe estar dispuesto a enseñar
+6;2;El ingeniero podra hacer uso de software ilegal consciente o inconsciente de ello?;En ninguna momento debe hacer uso de software ilegal
+7;2;El ingeniero puede aceptar trabajos externos a su contratante principal?;Si, siempre y cuando no sea en detrimento de este
+8;2;En caso de presentarse inconvenientes, adeversidades o problemas el ingeniero debera?;Informar detallada y oportunamente al cliente u empresario
+9;2;Se podra hacer uso de la propiedad del patron o cliente siempre que?;Sea de manera adecuada, autorizada y conciente por parte del mismo
+10;2;La informacion confidencial obtenida mediante su trabajo profesional debe mantenerse asi?;Si, siempre y cuando no se vaya en contra del interes general o de la ley
+11;3;Si yo entrego un producto de software mal desarrollado o en un tiempo no correspondido ¿Cual principio estoy incumpliendo?;El principio del producto
+12;3;¿Un ingeniero de software puede permitirse ambigüedades en la comprensión de los proyectos a realizar?;No
+13;3;¿Qué debe garantizar el ingeniero de software una vez se entregue el proyecto final al cliente?;Un adecuado mantenimiento y soporte
+14;3;¿Cual es el recurso que debe procurar más debe procurar cuidar el ingeniero de software?;Los datos
+15;3;¿Nuestro producto debe procurar evitar en conflicto con?;los clientes, la empresa, y la sociedad
+16;4;Con que fin se moderan los juicios tecnicos?;Amparar y mantener los derechos humanos
+17;4;Debe un ingeniero firmar documento que no han sido preparados bajo su supervisor?;No
+18;4;Si un ingeniero pone de por medio relaciones interpersonales  al revisar otros proyectos, esta bien?;no, debe  ser objetivo
+19;4;Si un ingeniero de Software  se involucra en practicas financieras engañosas, ¿esta?;Incumpliendo el código de ética de los ingenieros informáticos
+20;4;Que se debe hacer cuando hay conflictos de interes que no pueden resolverse razonablemente?;Comunicarlo a todas las partes
+21;5;¿Cual es una de las caracteristicas de una buena gestion en cualquier trabajo que se realice?;Procedimientos efectivos que promueven la calidad y reduccion de riesgos
+22;5;Se debe garantizar que los empleados conocen?;Las politicas y procedimientos
+23;5;¿Un ingeniero de software debe ofrecer una remuneracion?;Justa y adecuada
+24;5;¿Un ingeniero de software debe castigar a los demás por expresar sus preocupaciones sobre un proyecto ?;No
+25;5;¿Un ingeniero de software debe hacer lo que sea para que los demás no alcancen un mejor puesto sin importar que estos tengan las cualidades necesarias?;No
+26;6;Se pueden hacer alianzas con empresas asi no esten de acuerdo con el codigo de etica?;No
+27;6;Cuando es contraproducente o peligroso consultar a otras personas implicadas en las inobservancias del codigo, que se debe hacer?;informar la vulneraciones a las autoridades pertinentes 
+28;6;En el caso de un incumplimiento del código por parte de otra persona, ante cualquier situación se tiene que expresar dicha preocupacion?;A menos que sea imposible, contraproducente o peligroso
+29;6;Se debe informar a clientes, patronos y gerentes sobre el codigo de etica?;Si
+30;6;Se puede omitir informacion del software dando por hecho alguna especulacion?;No, se debe ser preciso en las caracteristicas que se estan trabajando
+31;7;¿en que aspecto debo ayudar constantemente a mis compañeros de equipo?;profesional
+32;7;Dado el caso, entre el la imagen profesional de un compañero o el bien común ¿que prima?;El bien comun
+33;7;¿A quien podemos acudir en primera instancia para solucionar dudas?;Otro profesionales
+34;7;Al trabajar con otro colegas ¿qué debemos interferir a toda costa?;atribuirse méritos no reconocidos
+35;7;¿Un ingeniero de software debe estar atento a las opiniones, quejas y?;preocupaciones de algún compañero
+36;8;El trato de un ingeniero de software debe? ;Ser justo y sin prejuicios
+37;8;El ingeniero debe siempre reconocer que;El incumplimiento de este código es inconsistente con su profesión
+38;8;En ninguna forma el ingeniero debe;Influenciar a otros al incumplimiento de este código
+39;8;El ingeniero debe constantemente;Estar actualizado y en comprensión de los nuevos estándares
+40;8;El ingeniero de software, en cuanto a su área, busca activamente;Comprender los nuevos desarrollos y su aplicacion
